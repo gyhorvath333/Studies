@@ -1,0 +1,1393 @@
+id;gender;age;year;studies;note;county;type;answer_id;question_id;answer;right
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1153;81;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;438;18;A hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;450;20;B hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;454;21;A hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;478;24;A hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1036;73;A gyorsabb;A gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1056;74;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1080;76;A gyorsabb;A gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;960;67;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1116;78;B gyorsabb;A gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;976;68;A gyorsabb;A gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;719;50;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;755;52;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;627;40;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;635;41;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;787;54;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;811;56;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;679;45;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;703;48;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;533;31;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;393;12;B hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1168;82;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;429;17;A hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;445;19;B hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;465;22;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;481;25;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;337;3;Azonosak;Azonosak
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;341;5;Elsõ magasabb;Elsõ magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;345;6;Elsõ magasabb;Elsõ magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;349;7;Azonosak;Azonosak
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;501;26;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;509;27;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;369;10;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;525;29;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;883;61;Különbözõ;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1067;75;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;947;66;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;983;69;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;999;70;A gyorsabb;A gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;710;49;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;618;39;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;662;43;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;686;46;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1151;80;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;548;33;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;408;14;A hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;416;15;B hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;424;16;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;468;23;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;352;8;Második magasabb;Második magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;376;11;A hangosabb;A hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;894;62;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;906;63;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1102;77;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;854;59;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;565;35;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;577;36;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;593;37;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;745;51;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;601;38;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;801;55;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;693;47;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;531;30;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;539;32;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;399;13;B hangosabb;B hangosabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1178;83;A gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;559;34;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;335;2;Második magasabb;Második magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;339;4;Második magasabb;Második magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;355;9;Második magasabb;Második magasabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;515;28;Különbözõ;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1013;71;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;873;60;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1021;72;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;921;64;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;933;65;Azonos;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;1129;79;B gyorsabb;B gyorsabb
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;776;53;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;648;42;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;672;44;Azonos;Azonos
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;824;57;Különbözõ;Különbözõ
+15;2;12;6;1;4;Hajdú-Bihar;Kisváros;832;58;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1145;33;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1297;49;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;860;9;Második magasabb;Második magasabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1032;23;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1044;25;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;904;13;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1100;29;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1108;30;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;968;18;A hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1120;31;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1000;21;A hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1212;37;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1228;38;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1248;41;Különbözõ;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1132;32;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1280;43;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1288;46;Különbözõ;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1007;22;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;895;12;A hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;939;16;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;951;17;B hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;991;20;A hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;758;3;Második magasabb;Azonosak
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;790;6;Azonosak;Elsõ magasabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;806;7;Második magasabb;Azonosak
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;830;8;Azonosak;Második magasabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1295;48;Különbözõ;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1299;50;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1167;35;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1179;36;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1243;39;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1263;42;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1283;44;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;878;10;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;890;11;A hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1050;26;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;910;14;B hangosabb;B hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;922;15;B hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1070;27;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;781;5;Elsõ magasabb;Elsõ magasabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1154;34;Azonos;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1302;51;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1246;40;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1286;45;Azonos;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1290;47;Különbözõ;Különbözõ
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1033;24;B hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;1085;28;Különbözõ;Azonos
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;981;19;B hangosabb;A hangosabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;748;2;Második magasabb;Második magasabb
+16;2;12;6;1;5;Hajdú-Bihar;Kisváros;772;4;Második magasabb;Második magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1321;57;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;446;17;A hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;470;18;B hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;482;19;B hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;350;8;Második magasabb;Második magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1409;62;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;354;9;Második magasabb;Második magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1269;55;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;370;10;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1137;48;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1285;56;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;892;34;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;928;37;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;952;38;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;743;29;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1501;70;A gyorsabb;A gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1513;72;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1525;74;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1537;76;B gyorsabb;A gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1545;78;B gyorsabb;A gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1433;65;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1184;50;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1200;51;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1352;59;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;329;6;Elsõ magasabb;Elsõ magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;333;7;Azonosak;Azonosak
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;489;20;A hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1256;54;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;855;32;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1099;46;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;975;39;Azonos;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;722;27;Azonos;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;610;24;B hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;682;26;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1440;66;Azonos;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1456;67;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1520;73;B gyorsabb;A gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1548;79;A gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1560;83;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;392;12;A hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1159;49;Azonos;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;420;15;B hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1363;60;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1219;52;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;308;2;Második magasabb;Második magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;324;5;Elsõ magasabb;Elsõ magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1239;53;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1403;61;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1006;41;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;874;33;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1030;42;Azonos;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;918;36;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1066;44;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1086;45;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1110;47;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;793;30;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;669;25;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1535;75;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1551;80;A gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1419;63;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;403;13;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;411;14;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1334;58;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;431;16;A hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;311;3;Azonosak;Azonosak
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;315;4;Második magasabb;Második magasabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;495;21;A hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;503;22;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;519;23;B hangosabb;B hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;379;11;B hangosabb;A hangosabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1045;43;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;905;35;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;989;40;Különbözõ;Különbözõ
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;736;28;Azonos;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;808;31;Különbözõ;Azonos
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1478;68;B gyorsabb;A gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1490;69;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1510;71;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1542;77;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1554;81;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1558;82;B gyorsabb;B gyorsabb
+17;1;11;6;1;5;Hajdú-Bihar;Megyei jogú város;1426;64;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;390;10;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;546;27;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;410;12;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;430;14;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;306;6;Azonosak;Elsõ magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;310;7;Azonosak;Azonosak
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1261;83;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;498;20;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1141;72;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;876;52;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;900;53;Különbözõ;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;912;54;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;932;55;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1092;69;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1104;70;B gyorsabb;A gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;815;48;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;529;25;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1152;73;B gyorsabb;A gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;401;11;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;561;28;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1188;76;A gyorsabb;A gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;305;5;Azonosak;Elsõ magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;457;16;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;477;18;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;521;23;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;955;57;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;730;41;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;746;42;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;802;47;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;666;36;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;694;38;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;536;26;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1175;75;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;444;15;B hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1211;79;A gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;300;2;Azonosak;Második magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;304;4;Azonosak;Második magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1223;80;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;488;19;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;504;21;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;372;9;Azonosak;Második magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1026;64;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1046;66;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1058;67;Különbözõ;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1078;68;A gyorsabb;A gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;950;56;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;990;60;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;585;30;Különbözõ;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;597;31;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;757;43;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;613;32;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;777;44;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;657;35;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;681;37;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;705;39;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;527;24;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1170;74;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;419;13;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1194;77;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1202;78;B gyorsabb;A gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;303;3;Azonosak;Azonosak
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;463;17;A hangosabb;A hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1238;81;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1250;82;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;351;8;Azonosak;Második magasabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;511;22;B hangosabb;B hangosabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1009;62;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1017;63;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1041;65;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;965;58;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1121;71;B gyorsabb;B gyorsabb
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;977;59;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;853;51;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;1001;61;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;720;40;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;576;29;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;628;33;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;784;45;Azonos;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;640;34;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;792;46;Azonos;Azonos
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;828;49;Különbözõ;Különbözõ
+18;1;12;6;1;4;Hajdú-Bihar;Kisváros;840;50;Azonos;Azonos
+19;2;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+20;1;11;6;1;4;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+21;1;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+22;2;12;6;4;5;Hajdú-Bihar;Község;418;38;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;426;40;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;282;2;Azonosak;Második magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;286;5;Második magasabb;Elsõ magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;434;41;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;290;8;Második magasabb;Második magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;294;10;A hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;442;42;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;298;14;B hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;330;24;B hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;338;27;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;490;50;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;346;30;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;848;81;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;583;61;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;619;64;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;631;65;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;803;76;B gyorsabb;A gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;671;69;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;695;71;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;549;56;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;405;37;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;285;4;Második magasabb;Második magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;293;9;Második magasabb;Második magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;297;13;A hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;301;16;B hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;449;43;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;309;18;B hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;469;46;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;325;22;B hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;485;49;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;353;32;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;638;66;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;786;74;A gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;810;77;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;818;78;B gyorsabb;A gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;562;58;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;388;34;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;540;53;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;544;55;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;284;3;Második magasabb;Azonosak
+22;2;12;6;4;5;Hajdú-Bihar;Község;288;7;Azonosak;Azonosak
+22;2;12;6;4;5;Hajdú-Bihar;Község;296;12;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;312;19;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;316;20;B hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;328;23;A hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;332;25;A hangosabb;B hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;480;48;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;336;26;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;340;28;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;348;31;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;500;52;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;569;59;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;589;62;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;609;63;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;765;73;B gyorsabb;A gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;645;67;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;825;79;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;391;35;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;395;36;Különbözõ;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;543;54;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;555;57;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;423;39;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;287;6;Elsõ magasabb;Elsõ magasabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;295;11;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;299;15;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;307;17;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;459;44;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;319;21;A hangosabb;A hangosabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;467;45;Azonos;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;471;47;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;343;29;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;491;51;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;367;33;Azonos;Azonos
+22;2;12;6;4;5;Hajdú-Bihar;Község;861;82;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;877;83;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;572;60;Különbözõ;Különbözõ
+22;2;12;6;4;5;Hajdú-Bihar;Község;732;72;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;796;75;B gyorsabb;B gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;660;68;B gyorsabb;A gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;680;70;B gyorsabb;A gyorsabb
+22;2;12;6;4;5;Hajdú-Bihar;Község;836;80;B gyorsabb;B gyorsabb
+23;1;10;2;1;5;\N;\N;1157;11;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1185;15;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1357;29;Azonos;Különbözõ
+23;1;10;2;1;5;\N;\N;1245;22;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1273;25;A hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1133;8;Második magasabb;Második magasabb
+23;1;10;2;1;5;\N;\N;1449;36;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1469;39;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1473;40;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1509;43;Azonos;Különbözõ
+23;1;10;2;1;5;\N;\N;1172;13;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1176;14;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1372;30;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1404;32;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1140;9;Második magasabb;Második magasabb
+23;1;10;2;1;5;\N;\N;1464;38;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1480;41;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1496;42;Azonos;Különbözõ
+23;1;10;2;1;5;\N;\N;1524;45;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1424;34;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1163;12;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1311;27;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1339;28;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1207;18;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1267;24;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1291;26;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1062;2;Második magasabb;Második magasabb
+23;1;10;2;1;5;\N;\N;1126;7;Azonosak;Azonosak
+23;1;10;2;1;5;\N;\N;1150;10;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1190;16;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1198;17;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1214;19;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1222;20;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1234;21;A hangosabb;A hangosabb
+23;1;10;2;1;5;\N;\N;1390;31;Különbözõ;Azonos
+23;1;10;2;1;5;\N;\N;1258;23;B hangosabb;B hangosabb
+23;1;10;2;1;5;\N;\N;1081;3;Azonosak;Azonosak
+23;1;10;2;1;5;\N;\N;1089;4;Második magasabb;Második magasabb
+23;1;10;2;1;5;\N;\N;1105;5;Elsõ magasabb;Elsõ magasabb
+23;1;10;2;1;5;\N;\N;1117;6;Elsõ magasabb;Elsõ magasabb
+23;1;10;2;1;5;\N;\N;1458;37;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1518;44;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1530;46;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1534;47;Különbözõ;Különbözõ
+23;1;10;2;1;5;\N;\N;1538;48;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1414;33;Azonos;Azonos
+23;1;10;2;1;5;\N;\N;1434;35;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1293;57;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;398;6;Elsõ magasabb;Elsõ magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;414;8;Második magasabb;Második magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1365;60;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;462;10;A hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1385;61;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1401;62;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1413;63;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1281;56;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;374;3;Második magasabb;Azonosak
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;872;29;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1024;40;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;888;30;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;896;31;Különbözõ;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;964;36;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1124;47;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;723;20;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;763;24;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;639;14;B hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;823;27;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1457;67;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1477;68;A gyorsabb;A gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1521;72;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1533;74;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1557;78;A gyorsabb;A gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1565;80;A gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1425;64;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;389;5;Azonosak;Elsõ magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1164;49;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1316;58;Különbözõ;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;421;9;Második magasabb;Második magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1336;59;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1236;53;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1272;55;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1011;39;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1039;41;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1063;42;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;923;33;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1087;44;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1115;46;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;979;37;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;851;28;Különbözõ;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;714;19;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;626;13;B hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;782;25;B hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;642;15;B hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;678;17;B hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1436;65;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1448;66;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1528;73;A gyorsabb;A gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1564;79;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;404;7;Azonosak;Azonosak
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1183;50;Különbözõ;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1203;51;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1255;54;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1074;43;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;942;34;Különbözõ;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;998;38;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;729;21;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;741;22;B hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;605;11;B hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;617;12;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;653;16;A hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1539;75;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1555;77;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;387;4;Elsõ magasabb;Második magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1218;52;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;371;2;Második magasabb;Második magasabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1138;48;Azonos;Azonos
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;909;32;Különbözõ;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;953;35;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1101;45;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;752;23;B hangosabb;B hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;800;26;Azonos;Különbözõ
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;692;18;A hangosabb;A hangosabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1494;69;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1506;70;A gyorsabb;A gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1514;71;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1550;76;A gyorsabb;A gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1566;81;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1570;82;B gyorsabb;B gyorsabb
+24;1;11;6;1;5;Hajdú-Bihar;Kisváros;1574;83;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;542;18;B hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1173;75;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1209;79;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1221;81;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;486;11;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1253;82;A gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;502;13;B hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;522;16;A hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1004;58;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1008;59;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1016;60;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1020;61;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;908;49;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;920;50;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1068;67;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1076;68;B gyorsabb;A gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1088;69;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;972;55;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;567;21;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;715;35;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;575;22;B hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;747;38;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;759;39;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;615;26;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;791;41;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;795;42;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;807;43;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;831;45;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;699;33;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;707;34;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1160;74;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;417;5;Második magasabb;Elsõ magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1192;77;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1216;80;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1260;83;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;903;48;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1059;66;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1103;70;B gyorsabb;A gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;578;23;B hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;726;36;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;738;37;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;598;25;A hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;778;40;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1147;73;A gyorsabb;A gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;396;3;Azonosak;Azonosak
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;552;19;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;560;20;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1199;78;B gyorsabb;A gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;460;9;Elsõ magasabb;Második magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;496;12;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1131;72;B gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;512;15;B hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1034;63;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1042;64;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;926;51;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;954;53;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1122;71;A gyorsabb;B gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;994;57;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;850;46;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;625;27;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;637;28;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;665;30;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;673;31;Különbözõ;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;821;44;Azonos;Azonos
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;383;2;Azonosak;Második magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;535;17;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;407;4;Második magasabb;Második magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1186;76;A gyorsabb;A gyorsabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;427;6;Elsõ magasabb;Elsõ magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;435;7;Azonosak;Azonosak
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;451;8;Második magasabb;Második magasabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;479;10;B hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;507;14;B hangosabb;B hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;865;47;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1029;62;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;1049;65;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;945;52;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;961;54;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;985;56;Különbözõ;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;588;24;A hangosabb;A hangosabb
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;652;29;Azonos;Különbözõ
+25;1;13;6;1;4;Hajdú-Bihar;Kisváros;688;32;Különbözõ;Különbözõ
+26;1;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+27;1;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;526;12;A hangosabb;A hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;538;14;B hangosabb;B hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;579;15;B hangosabb;A hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;537;13;B hangosabb;B hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;453;7;Elsõ magasabb;Azonosak
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;493;9;Elsõ magasabb;Második magasabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;582;16;B hangosabb;B hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;432;2;Második magasabb;Második magasabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;436;3;Második magasabb;Azonosak
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;440;4;Azonosak;Második magasabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;452;6;Elsõ magasabb;Elsõ magasabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;472;8;Elsõ magasabb;Második magasabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;516;10;B hangosabb;B hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;524;11;B hangosabb;A hangosabb
+28;1;12;6;1;4;Hajdú-Bihar;Kisváros;443;5;Elsõ magasabb;Elsõ magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;382;31;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;386;34;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;534;43;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;550;44;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;314;3;Második magasabb;Azonosak
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;322;6;Második magasabb;Elsõ magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;326;8;Azonosak;Második magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;474;40;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;334;10;B hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;342;11;A hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;358;16;A hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;362;20;B hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;366;24;B hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;378;29;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1072;81;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;992;76;A gyorsabb;A gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;595;47;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;767;59;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;771;62;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;783;63;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;659;48;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;819;66;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;381;30;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;385;33;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;413;37;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;425;38;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;437;39;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;313;2;Második magasabb;Második magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;317;4;Második magasabb;Második magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;357;15;A hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;361;19;B hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;365;23;B hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;373;26;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;377;28;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1003;77;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;867;68;A gyorsabb;A gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1015;78;B gyorsabb;A gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;875;69;A gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1027;79;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1051;80;A gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;915;72;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;963;74;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;718;53;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;574;45;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;734;54;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;766;58;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;770;61;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;674;49;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;842;67;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;698;51;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;528;42;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;384;32;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;400;35;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;412;36;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;320;5;Második magasabb;Elsõ magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;344;12;A hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;356;14;A hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;360;18;A hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;364;22;B hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;368;25;B hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;520;41;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;882;70;B gyorsabb;A gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;902;71;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;934;73;A gyorsabb;A gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1094;82;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;974;75;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;709;52;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;581;46;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;769;60;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;797;64;Azonos;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;813;65;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;697;50;Különbözõ;Azonos
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;323;7;Második magasabb;Azonosak
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;327;9;Elsõ magasabb;Második magasabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;347;13;B hangosabb;B hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;359;17;A hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;363;21;B hangosabb;A hangosabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;375;27;Azonos;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;1097;83;B gyorsabb;B gyorsabb
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;744;55;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;756;56;Különbözõ;Különbözõ
+29;1;11;6;1;4;Hajdú-Bihar;Kisváros;760;57;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1305;59;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1337;63;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1341;64;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1197;53;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1349;67;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;458;4;Második magasabb;Második magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1257;56;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;506;8;Elsõ magasabb;Második magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1012;41;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1048;43;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1096;46;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;751;27;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;667;21;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;683;22;A hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;839;32;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1441;74;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1445;75;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1300;58;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;541;11;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1396;70;A gyorsabb;A gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;517;9;Második magasabb;Második magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;871;33;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1031;42;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;907;35;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1071;44;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;959;37;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1111;47;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;971;38;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;995;40;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;774;28;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;634;18;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;650;20;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;822;31;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1488;83;A gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1420;72;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1428;73;A gyorsabb;A gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;532;10;A hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1307;60;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1315;61;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1319;62;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;556;13;B hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1187;52;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1371;69;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;464;5;Elsõ magasabb;Elsõ magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1231;55;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;492;7;Azonosak;Azonosak
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1407;71;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1135;49;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1082;45;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;986;39;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;725;25;B hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;737;26;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;805;30;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1447;76;B gyorsabb;A gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1455;77;A gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1459;78;A gyorsabb;A gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1463;79;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1487;82;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1146;50;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1162;51;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;547;12;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1342;65;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1346;66;Azonos;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;439;2;Második magasabb;Második magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1210;54;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;447;3;Második magasabb;Azonosak
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1362;68;B gyorsabb;A gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;483;6;Második magasabb;Elsõ magasabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1274;57;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;889;34;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;925;36;Azonos;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1125;48;Különbözõ;Azonos
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;712;24;B hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;568;14;B hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;592;15;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;608;16;B hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;624;17;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;788;29;Különbözõ;Különbözõ
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;644;19;A hangosabb;A hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;704;23;A hangosabb;B hangosabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1470;80;B gyorsabb;B gyorsabb
+30;1;12;6;1;5;Hajdú-Bihar;Kisváros;1486;81;B gyorsabb;B gyorsabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1325;40;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1361;42;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1369;43;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;318;5;Második magasabb;Elsõ magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;466;8;Második magasabb;Második magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1397;45;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1060;34;Különbözõ;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;956;31;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;603;13;B hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;779;25;B hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;655;16;B hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;687;18;B hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1493;56;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1517;59;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1529;61;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1429;48;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1304;39;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;553;9;Második magasabb;Második magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;557;10;A hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;281;2;Elsõ magasabb;Második magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1220;38;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;321;6;Második magasabb;Elsõ magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1091;36;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;967;32;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;594;11;A hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;742;22;A hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;602;12;B hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;606;15;A hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;794;26;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;690;19;A hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1460;52;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1504;57;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1416;47;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;292;4;Elsõ magasabb;Második magasabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;982;33;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;733;21;B hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;753;23;B hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;833;29;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1439;49;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1443;50;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1467;53;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1511;58;Különbözõ;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1523;60;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1547;63;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;291;3;Elsõ magasabb;Azonosak
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1350;41;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1386;44;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;331;7;Második magasabb;Azonosak
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1406;46;Különbözõ;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1077;35;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;941;30;Különbözõ;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1109;37;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;728;20;A hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;604;14;B hangosabb;B hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;768;24;A hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;804;27;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;820;28;Azonos;Azonos
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;676;17;B hangosabb;A hangosabb
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1450;51;Különbözõ;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1474;54;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1482;55;Azonos;Különbözõ
+31;2;12;6;1;5;Hajdú-Bihar;Kisváros;1546;62;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1301;52;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;554;12;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;278;2;Második magasabb;Második magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;302;7;Második magasabb;Azonosak
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1377;75;B gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1237;41;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1389;80;B gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1249;46;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1277;50;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1064;33;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;571;14;B hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;599;18;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;607;20;A hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;623;22;B hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;663;28;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1148;35;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1308;54;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1312;55;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1320;56;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1324;58;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1332;62;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1340;65;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;289;6;Második magasabb;Elsõ magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1348;68;A gyorsabb;A gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1224;36;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1376;74;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1232;39;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1380;76;A gyorsabb;A gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1384;78;B gyorsabb;A gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1240;42;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1244;44;Azonos;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1392;82;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1035;31;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1047;32;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;590;16;A hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;654;26;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1303;53;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1323;57;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1327;60;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1335;63;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;280;4;Második magasabb;Második magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1343;66;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1347;67;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1227;37;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1375;73;B gyorsabb;A gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1235;40;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1387;79;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;476;9;Második magasabb;Második magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1391;81;B gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1247;45;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1395;83;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1259;47;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1271;49;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1143;34;Azonos;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;621;21;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;641;24;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;649;25;B hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;551;11;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1326;59;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1330;61;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;279;3;Második magasabb;Azonosak
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1338;64;Azonos;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;283;5;Második magasabb;Elsõ magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1354;69;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1358;70;B gyorsabb;A gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1366;71;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1374;72;A gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1230;38;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1382;77;B gyorsabb;B gyorsabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;475;8;Második magasabb;Második magasabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1242;43;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;487;10;A hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1266;48;Különbözõ;Azonos
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;1282;51;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;564;13;B hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;580;15;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;596;17;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;600;19;B hangosabb;A hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;636;23;B hangosabb;B hangosabb
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;656;27;Azonos;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;664;29;Különbözõ;Különbözõ
+32;1;12;6;1;3;Hajdú-Bihar;Kisváros;696;30;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;530;9;Második magasabb;Második magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1169;56;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1177;57;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;558;11;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1217;60;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1233;61;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1393;73;B gyorsabb;A gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1405;75;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1265;63;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;864;34;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;880;35;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1040;47;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1112;52;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;984;42;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;996;43;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;563;12;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;731;26;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;739;27;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;647;18;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;691;21;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1437;81;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1421;78;B gyorsabb;A gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1292;65;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;545;10;B hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1204;59;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1360;69;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;473;3;Második magasabb;Azonosak
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1388;72;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1400;74;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;497;5;Elsõ magasabb;Elsõ magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;513;7;Azonosak;Azonosak
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1019;45;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1023;46;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1055;48;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;931;38;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1083;50;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;943;39;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1127;53;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;847;33;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;570;13;B hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;750;28;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;614;15;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;762;29;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;798;31;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;706;23;B hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1155;55;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1331;67;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1191;58;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1351;68;B gyorsabb;A gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;456;2;Második magasabb;Második magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;484;4;Második magasabb;Második magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1251;62;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1411;76;B gyorsabb;A gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;508;6;Elsõ magasabb;Elsõ magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1279;64;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1139;54;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1010;44;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;970;41;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;713;24;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;721;25;B hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;677;19;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;829;32;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;685;20;B hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1451;83;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1415;77;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1427;79;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1431;80;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1310;66;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1370;70;B gyorsabb;A gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1378;71;B gyorsabb;B gyorsabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;523;8;Második magasabb;Második magasabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;897;36;Azonos;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;913;37;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1069;49;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1093;51;Különbözõ;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;957;40;Azonos;Különbözõ
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;584;14;A hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;620;16;A hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;632;17;A hangosabb;A hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;780;30;Különbözõ;Azonos
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;700;22;A hangosabb;B hangosabb
+33;2;12;6;1;4;Hajdú-Bihar;Kisváros;1442;82;B gyorsabb;B gyorsabb
+35;2;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+36;1;11;6;1;4;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+37;2;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1161;23;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1165;24;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1317;37;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1329;38;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1345;39;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1205;28;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1229;30;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1381;42;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;884;3;Elsõ magasabb;Azonosak
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1084;15;B hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;980;7;Azonosak;Azonosak
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1128;20;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;988;8;Második magasabb;Második magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1585;82;B gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1453;49;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1461;50;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1505;55;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1549;65;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1561;68;A gyorsabb;A gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1417;45;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1569;71;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1573;73;B gyorsabb;A gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1577;75;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1581;78;A gyorsabb;A gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1356;40;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1252;31;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1408;44;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1264;32;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1136;21;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;911;4;Második magasabb;Második magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;935;5;Elsõ magasabb;Elsõ magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1095;16;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1119;19;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1584;81;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1444;48;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1512;57;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1536;63;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1544;64;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1552;66;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1556;67;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1576;74;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1432;47;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1580;77;B gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1195;27;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1215;29;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1367;41;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1275;33;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1287;34;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1054;12;B hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1106;17;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;966;6;Második magasabb;Elsõ magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1114;18;B hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1583;80;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1475;52;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1483;53;Azonos;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1491;54;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1507;56;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1515;58;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1519;59;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1527;61;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1531;62;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1563;69;B gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1567;70;A gyorsabb;A gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1571;72;B gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1579;76;B gyorsabb;A gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1298;35;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1314;36;Különbözõ;Azonos
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1174;25;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1182;26;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1398;43;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1142;22;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;857;2;Második magasabb;Második magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1025;10;A hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1037;11;A hangosabb;A hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1061;13;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1073;14;B hangosabb;B hangosabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;997;9;Második magasabb;Második magasabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1582;79;B gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1586;83;A gyorsabb;B gyorsabb
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1466;51;Különbözõ;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1522;60;Azonos;Különbözõ
+38;2;12;6;1;5;Hajdú-Bihar;Kisváros;1422;46;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;394;4;Elsõ magasabb;Második magasabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;402;6;Második magasabb;Elsõ magasabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;406;7;Azonosak;Azonosak
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;422;10;A hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;494;17;B hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;510;20;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;514;21;B hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;518;22;B hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;856;42;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;852;41;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;727;36;Különbözõ;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;591;25;B hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;643;31;Különbözõ;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;651;32;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;397;5;Második magasabb;Elsõ magasabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;409;8;Azonosak;Második magasabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;433;12;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;441;13;B hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;461;16;A hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;505;19;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;859;44;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;863;46;Különbözõ;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;586;24;B hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;622;28;Különbözõ;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;670;34;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;380;3;Második magasabb;Azonosak
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;428;11;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;448;14;B hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;858;43;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;862;45;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;866;47;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;573;23;B hangosabb;B hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;761;37;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;773;38;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;629;29;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;633;30;Különbözõ;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;785;39;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;661;33;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;415;9;Azonosak;Második magasabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;455;15;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;499;18;A hangosabb;A hangosabb
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;969;48;Azonos;Azonos
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;849;40;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;612;26;Azonos;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;616;27;Különbözõ;Különbözõ
+39;1;11;6;1;4;Hajdú-Bihar;Kisváros;684;35;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1149;46;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1333;59;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1189;50;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1289;56;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;868;26;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;916;29;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;587;3;Második magasabb;Azonosak
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;735;15;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;611;4;Elsõ magasabb;Második magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;775;20;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;799;22;B hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;675;9;Második magasabb;Második magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;827;24;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;843;25;A hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1465;68;B gyorsabb;A gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1485;70;A gyorsabb;A gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1553;77;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1180;49;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1196;51;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1208;52;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1364;61;Különbözõ;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1412;64;Különbözõ;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1276;55;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1144;45;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;899;28;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1075;40;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1107;42;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;987;34;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;566;2;Második magasabb;Második magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;754;18;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;630;5;Második magasabb;Elsõ magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;646;6;Elsõ magasabb;Elsõ magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;658;7;Azonosak;Azonosak
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1452;67;Különbözõ;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1500;71;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1508;72;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1516;73;A gyorsabb;A gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1532;75;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1568;80;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1572;81;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1171;48;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1355;60;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1379;62;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1399;63;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1002;35;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1014;36;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1022;37;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1038;38;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1090;41;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;962;32;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1118;43;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;749;17;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;789;21;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;689;10;A hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;701;11;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1471;69;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1543;76;A gyorsabb;A gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1559;78;A gyorsabb;A gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1423;65;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1575;82;A gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1435;66;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1158;47;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1306;57;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1318;58;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1226;53;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1262;54;Azonos;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1130;44;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;885;27;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1057;39;Különbözõ;Különbözõ
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;929;30;Különbözõ;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;949;31;Különbözõ;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;973;33;Azonos;Azonos
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;716;13;B hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;724;14;B hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;740;16;B hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;764;19;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;668;8;Második magasabb;Második magasabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;816;23;B hangosabb;B hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;708;12;A hangosabb;A hangosabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1526;74;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1562;79;B gyorsabb;B gyorsabb
+40;1;12;6;1;4;Hajdú-Bihar;Kisváros;1578;83;B gyorsabb;B gyorsabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1313;18;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1373;19;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1052;17;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;711;3;Elsõ magasabb;Azonosak
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;835;7;Azonosak;Azonosak
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1541;24;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;887;15;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;891;16;B hangosabb;B hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;814;5;Elsõ magasabb;Elsõ magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;834;6;Azonosak;Elsõ magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;702;2;Elsõ magasabb;Második magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1540;23;B hangosabb;B hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;870;12;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;886;14;B hangosabb;B hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;717;4;Második magasabb;Második magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;837;8;Azonosak;Második magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;841;9;Elsõ magasabb;Második magasabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1499;21;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;869;11;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;881;13;B hangosabb;B hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;844;10;Elsõ magasabb;B hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1498;20;B hangosabb;A hangosabb
+41;1;12;6;1;4;Hajdú-Bihar;Kisváros;1502;22;B hangosabb;B hangosabb
+42;2;12;6;1;5;Hajdú-Bihar;Kisváros;\N;\N;\N;\N
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1309;56;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1181;42;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1193;43;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1201;44;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1353;60;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1213;46;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1225;47;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1241;48;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1028;31;Különbözõ;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;924;16;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;936;19;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;940;22;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;944;23;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;948;25;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1481;77;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1489;79;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1497;82;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1296;55;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1156;40;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1328;58;Különbözõ;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1344;59;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1368;62;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1268;50;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1284;53;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;879;9;Elsõ magasabb;Második magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1043;32;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;919;15;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;927;17;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1079;35;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1123;38;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;826;5;Második magasabb;Elsõ magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;838;6;Elsõ magasabb;Elsõ magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1468;73;A gyorsabb;A gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1472;74;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1476;75;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1484;78;B gyorsabb;A gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1492;80;A gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1359;61;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1383;63;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1018;30;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;898;11;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;914;13;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;930;18;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;938;21;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;946;24;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1098;36;Különbözõ;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;958;26;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;978;27;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;846;8;Elsõ magasabb;Második magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;809;2;Elsõ magasabb;Második magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;817;4;Második magasabb;Második magasabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;845;7;Elsõ magasabb;Azonosak
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1479;76;B gyorsabb;A gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1495;81;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1503;83;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1294;54;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1166;41;Különbözõ;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1322;57;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1206;45;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1394;64;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1254;49;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1402;65;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1410;66;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1270;51;Különbözõ;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1278;52;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1134;39;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1005;29;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;893;10;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;901;12;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1053;33;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;917;14;B hangosabb;B hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1065;34;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;937;20;B hangosabb;A hangosabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1113;37;Azonos;Különbözõ
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;993;28;Különbözõ;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;812;3;Elsõ magasabb;Azonosak
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1438;69;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1446;70;B gyorsabb;A gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1454;71;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1462;72;B gyorsabb;B gyorsabb
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1418;67;Azonos;Azonos
+43;2;12;6;1;5;Hajdú-Bihar;Kisváros;1430;68;A gyorsabb;A gyorsabb
+46;1;11;1;5;5;Budapest;Fõváros;1663;4;Második magasabb;Második magasabb
+46;1;11;1;5;5;Budapest;Fõváros;1667;8;Második magasabb;Második magasabb
+46;1;11;1;5;5;Budapest;Fõváros;1662;3;Azonosak;Azonosak
+46;1;11;1;5;5;Budapest;Fõváros;1666;7;Azonosak;Azonosak
+46;1;11;1;5;5;Budapest;Fõváros;1661;2;Második magasabb;Második magasabb
+46;1;11;1;5;5;Budapest;Fõváros;1665;6;Elsõ magasabb;Elsõ magasabb
+46;1;11;1;5;5;Budapest;Fõváros;1664;5;Elsõ magasabb;Elsõ magasabb
+46;1;11;1;5;5;Budapest;Fõváros;1668;9;Második magasabb;Második magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1671;4;Második magasabb;Második magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1675;8;Második magasabb;Második magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1679;12;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1683;16;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1687;20;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1691;24;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1695;28;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1699;32;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1703;36;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1707;40;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1711;44;Azonos;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1715;48;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1719;52;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1723;56;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1727;60;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1731;64;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1670;3;Azonosak;Azonosak
+47;1;10;5;1;5;Budapest;Fõváros;1674;7;Második magasabb;Azonosak
+47;1;10;5;1;5;Budapest;Fõváros;1678;11;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1682;15;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1686;19;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1690;23;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1694;27;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1698;31;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1702;35;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1706;39;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1710;43;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1714;47;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1718;51;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1722;55;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1726;59;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1730;63;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1734;67;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1669;2;Második magasabb;Második magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1673;6;Második magasabb;Elsõ magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1677;10;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1681;14;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1685;18;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1689;22;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1693;26;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1697;30;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1701;34;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1705;38;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1709;42;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1713;46;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1717;50;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1721;54;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1725;58;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1729;62;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1733;66;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1672;5;Második magasabb;Elsõ magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1676;9;Második magasabb;Második magasabb
+47;1;10;5;1;5;Budapest;Fõváros;1680;13;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1684;17;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1688;21;B hangosabb;A hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1692;25;B hangosabb;B hangosabb
+47;1;10;5;1;5;Budapest;Fõváros;1696;29;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1700;33;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1704;37;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1708;41;Azonos;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1712;45;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1716;49;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1720;53;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1724;57;Különbözõ;Különbözõ
+47;1;10;5;1;5;Budapest;Fõváros;1728;61;Különbözõ;Azonos
+47;1;10;5;1;5;Budapest;Fõváros;1732;65;Különbözõ;Különbözõ
